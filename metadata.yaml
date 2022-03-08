@@ -1,0 +1,62 @@
+_repo: Smuggling-Smugglers-in-Sussex-The-Genuine-History-of-the-Inhuman-and-Unparalleled-Murders-of-__67468
+_version: 0.0.1
+alternative_title: "Smuggling and Smugglers in Sussex\r\nThe Genuine History of the\
+  \ Inhuman and Unparalleled Murders of Mr. William Galley a Custom-house Officer,\
+  \ and Mr. Daniel Chater, a Shoemaker, by Fourteen Notorious Smugglers, with the\
+  \ Trials and Execution of Seven of the Criminals at Chichester, 1748-9"
+contributor:
+  contributors:
+  - agent_name: Ashburnham, William, Sir
+    aliases:
+    - Chichester, Bishop of (William Ashburnham)
+    - William, Lord Bishop of Chichester
+    - William, Bishop of Chichester
+    birthdate: 1710
+    deathdate: 1797
+    gutenberg_agent_id: '53652'
+    url: http://www.gutenberg.org/2009/agents/53652
+    wikipedia: https://en.wikipedia.org/wiki/Sir_William_Ashburnham,_4th_Baronet
+  - agent_name: Cooper, William Durrant
+    birthdate: 1812
+    deathdate: 1875
+    gutenberg_agent_id: '54281'
+    url: http://www.gutenberg.org/2009/agents/54281
+    wikipedia: https://en.wikipedia.org/wiki/William_Durrant_Cooper
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/49
+    - https://en.wikipedia.org/wiki/Anonymous_work
+description: '"Also the trials of John Mills and Henry Sheerman, with an account of
+  the wicked lives of the said Henry Sheerman, Lawrence and Thomas Kemp, Robert Fuller,
+  and Jockey Brown; and the trials at large of Thomas Kingsmill and other smugglers
+  for breaking open the custom house at Poole; with the sermon preached in the Cathedral
+  Church of Chichester, at a special Assize held there, by Bp. Ashburnham; also, an
+  article on ''Smuggling in Sussex,'' by William Durrant Cooper, Esq., F. S. A. (reprinted
+  from vol. X of the ''Sussex archeological collections''), and other papers."
+
+  "This history was first published in 1749"--Preface, p. 3.  Originally published
+  under title: A full and genuine history of the inhuman and unparallell''d murders....'
+gutenberg_issued: '2022-02-22'
+identifiers:
+  gutenberg: '67468'
+  lccn: '2006576488'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcc 'HJ'
+- !lcsh 'Crime -- England -- History'
+- !lcsh 'Smuggling -- England -- Sussex -- History'
+- GITenberg
+title: "Smuggling & Smugglers in Sussex\r\nThe Genuine History of the Inhuman and\
+  \ Unparalleled Murders of Mr. William Galley a Custom-house Officer, and Mr. Daniel\
+  \ Chater, a Shoemaker, by Fourteen Notorious Smugglers, with the Trials and Execution\
+  \ of Seven of the Criminals at Chichester, 1748-9"
+url: http://www.gutenberg.org/ebooks/67468
