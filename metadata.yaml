@@ -22,6 +22,9 @@ contributor:
     gutenberg_agent_id: '54281'
     url: http://www.gutenberg.org/2009/agents/54281
     wikipedia: https://en.wikipedia.org/wiki/William_Durrant_Cooper
+covers:
+- cover_type: archival
+  image_path: 67468-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -41,6 +44,8 @@ description: '"Also the trials of John Mills and Henry Sheerman, with an account
 
   "This history was first published in 1749"--Preface, p. 3.  Originally published
   under title: A full and genuine history of the inhuman and unparallell''d murders....'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67468#Smuggling-Smugglers-in-Sussex-The-Genuine-History-of-the-Inhuman-and-Unparalleled-Murders-of-_
 gutenberg_issued: '2022-02-22'
 identifiers:
   gutenberg: '67468'
